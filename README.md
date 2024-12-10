@@ -14,8 +14,6 @@ Watch the project video here.
 - Testing and Results
 - Conclusion
 - Future Work
-- Contributing
-- License
 - Acknowledgments
 
 ## Project Overview
