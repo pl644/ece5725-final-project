@@ -68,11 +68,5 @@ The project successfully enabled the luggage to follow the user automatically, u
 - Implement predictive algorithms for smoother tracking.
 - Develop a smartphone app for better control and interaction.
 
-## Contributing
-Contributions are welcome! Please follow the guidelines for contributing to this project.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 Special thanks to our instructors and peers for their support and guidance. Inspired by the Raspberry Pi community and open-source contributors.
